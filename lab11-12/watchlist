@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Movie List</title>
+	</head>
+	<body>
+		<table border="1">
+		<tr>
+			<td>Name</td>
+			<td>Gender</td>
+			<td>Year</td>
+			<td>link</td>
+		</tr>		<tr>
+			<td>Dumb and Dumber to</td>
+			<td> Comedy</td>
+			<td>2014</td>
+			<td><a href = "https://www.youtube.com/watch?v=lGXHVlEklgQ">Link</a></td></tr>		<tr>
+			<td>American Sniper</td>
+			<td>Documentary</td>
+			<td>2014</td>
+			<td><a href = "https://www.youtube.com/watch?v=99k3u9ay1gs">Link</a></td></tr>		<tr>
+			<td>1 The Movie</td>
+			<td>Documentary</td>
+			<td>2013</td>
+			<td><a href = "https://www.youtube.com/watch?v=k59zcs00k0A">Link</a></td></tr>		<tr>
+			<td>Grave Encounters</td>
+			<td>Horror</td>
+			<td>2011</td>
+			<td><a href = "https://www.youtube.com/watch?v=g8FBRATbJoA">Link</a></td></tr>		<tr>
+			<td>Pacific Rim</td>
+			<td>SF</td>
+			<td>2013</td>
+			<td><a href = "https://www.youtube.com/watch?v=5guMumPFBag">Link</a></td></tr>		<tr>
+			<td>Jurassic World</td>
+			<td>Fantasy</td>
+			<td>2014</td>
+			<td><a href = "https://www.youtube.com/watch?v=RFinNxS5KN4">Link</a></td></tr>		<tr>
+			<td>The Avengers:Age of Ultron</td>
+			<td>Action</td>
+			<td>2015</td>
+			<td><a href = "https://www.youtube.com/watch?v=CieuGZ7TthE">Link</a></td></tr>		<tr>
+			<td>Fist Fight</td>
+			<td>Comedy</td>
+			<td>2016</td>
+			<td><a href = "https://www.youtube.com/watch?v=6YVBj2o_3mg">Link</a></td></tr>		<tr>
+			<td>X-men Apocalypse</td>
+			<td>Fantasy</td>
+			<td>2016</td>
+			<td><a href = "https://www.youtube.com/watch?v=Jer8XjMrUB4">Link</a></td></tr>		<tr>
+			<td>Captain America:Civil War</td>
+			<td>Fantasy</td>
+			<td>2016</td>
+			<td><a href = "https://www.youtube.com/watch?v=dKrVegVI0Us">Link</a></td></tr>		<tr>
+			<td>Ted 2</td>
+			<td>Comedy</td>
+			<td>2016</td>
+			<td><a href = "https://www.youtube.com/watch?v=S3AVcCggRnU">Link</a></td></tr>		<tr>
+			<td>Doctor Strange</td>
+			<td>Action</td>
+			<td>2016</td>
+			<td><a href = "https://www.youtube.com/watch?v=HSzx-zryEgM">Link</a></td></tr>		<tr>
+			<td>Ouja</td>
+			<td>Horror</td>
+			<td>2014</td>
+			<td><a href = "https://www.youtube.com/watch?v=_T1Jj1inE8M">Link</a></td></tr>		<tr>
+			<td>Don't Breathe</td>
+			<td>Horror</td>
+			<td>2016</td>
+			<td><a href = "https://www.youtube.com/watch?v=76yBTNDB6vU">Link</a></td></tr>		<tr>
+			<td>Fast and Furious 8</td>
+			<td>Action</td>
+			<td>2017</td>
+			<td><a href = "https://www.youtube.com/watch?v=VVQLn10ZsDg">Link</a></td></tr>		<tr>
+			<td>Star Wars VII</td>
+			<td>SF</td>
+			<td>2016</td>
+			<td><a href = "https://www.youtube.com/watch?v=sGbxmsDFVnE">Link</a></td></tr>		<tr>
+			<td>Transformers</td>
+			<td>SF</td>
+			<td>2014</td>
+			<td><a href = "https://www.youtube.com/watch?v=dYDGqmxMZFI">Link</a></td></tr>		<tr>
+			<td>Deadpool</td>
+			<td>Action</td>
+			<td>2016</td>
+			<td><a href = "https://www.youtube.com/watch?v=9vN6DHB6bJc">Link</a></td></tr>		<tr>
+			<td>Justice League</td>
+			<td>SF</td>
+			<td>2017</td>
+			<td><a href = "https://www.youtube.com/watch?v=3cxixDgHUYw">Link</a></td></tr>		<tr>
+			<td>Dumb and Dumber to</td>
+			<td> Comedy</td>
+			<td>2014</td>
+			<td><a href = "https://www.youtube.com/watch?v=lGXHVlEklgQ">Link</a></td></tr>		<tr>
+			<td>American Sniper</td>
+			<td>Documentary</td>
+			<td>2014</td>
+			<td><a href = "https://www.youtube.com/watch?v=99k3u9ay1gs">Link</a></td></tr>		<tr>
+			<td>1 The Movie</td>
+			<td>Documentary</td>
+			<td>2013</td>
+			<td><a href = "https://www.youtube.com/watch?v=k59zcs00k0A">Link</a></td></tr>		<tr>
+			<td>Grave Encounters</td>
+			<td>Horror</td>
+			<td>2011</td>
+			<td><a href = "https://www.youtube.com/watch?v=g8FBRATbJoA">Link</a></td></tr>		<tr>
+			<td>Pacific Rim</td>
+			<td>SF</td>
+			<td>2013</td>
+			<td><a href = "https://www.youtube.com/watch?v=5guMumPFBag">Link</a></td></tr>		<tr>
+			<td>Jurassic World</td>
+			<td>Fantasy</td>
+			<td>2014</td>
+			<td><a href = "https://www.youtube.com/watch?v=RFinNxS5KN4">Link</a></td></tr>		<tr>
+			<td>The Avengers:Age of Ultron</td>
+			<td>Action</td>
+			<td>2015</td>
+			<td><a href = "https://www.youtube.com/watch?v=CieuGZ7TthE">Link</a></td></tr>		<tr>
+			<td>Fist Fight</td>
+			<td>Comedy</td>
+			<td>2016</td>
+			<td><a href = "https://www.youtube.com/watch?v=6YVBj2o_3mg">Link</a></td></tr>		<tr>
+			<td>X-men Apocalypse</td>
+			<td>Fantasy</td>
+			<td>2016</td>
+			<td><a href = "https://www.youtube.com/watch?v=Jer8XjMrUB4">Link</a></td></tr>		<tr>
+			<td>Captain America:Civil War</td>
+			<td>Fantasy</td>
+			<td>2016</td>
+			<td><a href = "https://www.youtube.com/watch?v=dKrVegVI0Us">Link</a></td></tr>		<tr>
+			<td>Ted 2</td>
+			<td>Comedy</td>
+			<td>2016</td>
+			<td><a href = "https://www.youtube.com/watch?v=S3AVcCggRnU">Link</a></td></tr>		<tr>
+			<td>Doctor Strange</td>
+			<td>Action</td>
+			<td>2016</td>
+			<td><a href = "https://www.youtube.com/watch?v=HSzx-zryEgM">Link</a></td></tr>		<tr>
+			<td>Ouja</td>
+			<td>Horror</td>
+			<td>2014</td>
+			<td><a href = "https://www.youtube.com/watch?v=_T1Jj1inE8M">Link</a></td></tr>		<tr>
+			<td>Don't Breathe</td>
+			<td>Horror</td>
+			<td>2016</td>
+			<td><a href = "https://www.youtube.com/watch?v=76yBTNDB6vU">Link</a></td></tr>		<tr>
+			<td>Fast and Furious 8</td>
+			<td>Action</td>
+			<td>2017</td>
+			<td><a href = "https://www.youtube.com/watch?v=VVQLn10ZsDg">Link</a></td></tr>		<tr>
+			<td>Star Wars VII</td>
+			<td>SF</td>
+			<td>2016</td>
+			<td><a href = "https://www.youtube.com/watch?v=sGbxmsDFVnE">Link</a></td></tr>		<tr>
+			<td>Transformers</td>
+			<td>SF</td>
+			<td>2014</td>
+			<td><a href = "https://www.youtube.com/watch?v=dYDGqmxMZFI">Link</a></td></tr>		<tr>
+			<td>Deadpool</td>
+			<td>Action</td>
+			<td>2016</td>
+			<td><a href = "https://www.youtube.com/watch?v=9vN6DHB6bJc">Link</a></td></tr>		<tr>
+			<td>Justice League</td>
+			<td>SF</td>
+			<td>2017</td>
+			<td><a href = "https://www.youtube.com/watch?v=3cxixDgHUYw">Link</a></td></tr>		</table>
+	</body>
+</html>
